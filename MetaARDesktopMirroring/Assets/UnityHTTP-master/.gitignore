@@ -1,0 +1,8 @@
+*.meta
+
+# these will be generated in compilation
+bin
+.DS_Store
+obj
+*.pidb
+*.nupkg
